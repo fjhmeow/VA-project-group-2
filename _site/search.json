@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Visual Analytics Project Group 2",
+      "description": "Visual Analytics Project Group 2",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-03-06T15:30:17+08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Visual Analytics Project Group 2",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-03-06T15:34:44+08:00"
+    }
+  ],
+  "collections": []
+}
