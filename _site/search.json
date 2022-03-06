@@ -13,8 +13,8 @@
       "title": "Visual Analytics Project Group 2",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-03-06T15:34:44+08:00"
+      "contents": "\r\necho “# VA-group-project” >> README.md git init git add README.md git commit -m “first commit” git branch -M main git remote add origin https://github.com/fjhmeow/VA-group-project.git git push -u origin main\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-03-06T15:39:56+08:00"
     }
   ],
   "collections": []
